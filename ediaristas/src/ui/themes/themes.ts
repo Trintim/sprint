@@ -34,7 +34,7 @@ const theme = createTheme({
     },
   },
   typography: {
-    fontFamily: "Poppins",
+    fontFamily: "Ubuntu",
   },
   shape: {
     borderRadius: "3px",
