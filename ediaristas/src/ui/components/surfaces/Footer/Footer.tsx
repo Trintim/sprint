@@ -8,7 +8,7 @@ const Footer = () => {
       <FooterContainer>
         <Box sx={{ maxWidth: '400px'}}>
           <FooterTitle>Quem somos</FooterTitle>
-          <Typography>
+          <Typography variant={'body2'} sx={{ mt: 2}}>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
             delectus quos tempore perspiciatis cum nesciunt quae at cumque.
             Explicabo illum repellat eligendi adipisci doloremque perferendis
